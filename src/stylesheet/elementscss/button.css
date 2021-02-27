@@ -1,0 +1,11 @@
+
+.button-simple{
+    background: none;
+    border: none;
+    font-size: 14px;
+}
+
+.button-simple:hover{
+    color: skyblue;
+    cursor: pointer;
+}

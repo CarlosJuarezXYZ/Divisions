@@ -1,0 +1,17 @@
+.select-simple {
+    color: #fff;
+    font-size: 16px;
+    font-family: Segoe UI;
+    line-height: 18.62px;
+    font-weight: 600;
+    list-style: none;
+    text-decoration: none;
+    align-items: center;
+    padding: 0px 20px;
+    border: none;
+    background: none;
+}
+
+.select-simple:focus{
+    outline: none;
+}
